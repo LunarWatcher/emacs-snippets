@@ -1,4 +1,4 @@
-;;; emacs-snippets-el --- A collection of tempo.el snippets -*- lexical-binding: t; -*-
+;;; emacs-snippets-el --- A collection of tempel snippets -*- lexical-binding: t; -*-
 
 ;; Copyright 2026 Olivia
 
