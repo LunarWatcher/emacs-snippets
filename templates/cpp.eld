@@ -7,3 +7,9 @@ int main(int argc, const char* argv[]) {
     return sess.run(argc, argv);
 }")
 
+(catch2-test "#include <catch2/catch_test_macros.hpp>
+
+TEST_CASE(\"" (p "Test case name") "\") {" n>
+    p n
+"}" n>)
+
