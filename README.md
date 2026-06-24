@@ -6,7 +6,7 @@ The templates in this repo were originally planned to be used with the built-in 
 
 ## Scope
 
-This repo exclusively contains snippets I need and use (or plan to use). If you want to add snippets, make your own repo instead. You can fork this one to get the tiny amount of supporting code for the templates (that may or may not grow in the future, I haven't looked much at tempel's more advanced features yet)
+This repo exclusively contains snippets I need and use (or plan to use). If you want to add snippets, make your own repo instead. I do not wish to maintain snippets I do not need myself. You can fork this one to get the tiny amount of supporting code for the templates (that may or may not grow in the future, I haven't looked much at tempel's more advanced features yet)
 
 ## Installing
 
