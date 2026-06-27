@@ -27,7 +27,7 @@ markdown-mode
      "{" n
      "    \"title\": \"" (p "Title") "\"," n
      "    \"date\": \"" (format-time-string "%Y-%m-%dT%H:%M:%S%:z") "\"," n
-     "    \"type\": \"til\"," n
+     "    \"type\": \"blog\"," n
      "    \"taxonomies\": {" n
      "        \"tags\": [" (p "tags") "]" n
      "    }" n
