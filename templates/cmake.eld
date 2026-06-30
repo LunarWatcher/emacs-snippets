@@ -15,11 +15,11 @@ FetchContent_MakeAvailable(stc)")
     GIT_REPOSITORY https://github.com/LunarWatcher/minilog
 )
 FetchContent_MakeAvailable(minilog)")
-(fc-cli11 "FetchContent_Declare(cli11
-    GIT_REPOSITORY https://github.com/LunarWatcher/CLI11
+(fc-cli12 "FetchContent_Declare(cli12
+    GIT_REPOSITORY https://github.com/LunarWatcher/CLI12
     GIT_TAG main
 )
-FetchContent_MakeAvailable(cli11)")
+FetchContent_MakeAvailable(cli12)")
 
 (fc-catch2 "include(FetchContent)
 FetchContent_Declare(
